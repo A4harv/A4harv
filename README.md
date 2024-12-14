@@ -1,5 +1,5 @@
 # About Me:
-I'm a passionate BCA (Bachelor of Computer Applications) student currently diving into the world of Full Stack Development, particularly focusing on the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on projects that require creative problem-solving and enjoy exploring the intersection of technology and innovation. Beyond academics, I'm engaged in various extracurricular activities, and my GitHub profile reflects my dedication to learning, collaborating, and contributing to the tech community.
+I'm a passionate MCA (Master's of Computer Applications) student currently diving into the world of Full Stack Development, particularly focusing on the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on projects that require creative problem-solving and enjoy exploring the intersection of technology and innovation. Beyond academics, I'm engaged in various extracurricular activities, and my GitHub profile reflects my dedication to learning, collaborating, and contributing to the tech community.
 
 
 ## 🌐 Socials:
